@@ -42,7 +42,8 @@ I’m a microbiologist and bioinformatician passionate about understanding bacte
 
 ---
 
-## [GitHub Stats](https://github.com/awadiop94)
+## [GitHub Stats]
+https://github.com/awadiop94
 
 ---
 ✨ “Science is not only a disciple of reason but, also, one of romance and passion.”  
