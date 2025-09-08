@@ -33,7 +33,7 @@ I’m a microbiologist and bioinformatician passionate about understanding bacte
 - Phylogenetics (RAXML, RAXML-NG, FastTree, ASTRAL, IQ-Tree)
 - Core genome analysis (CoreCruncher)  
 - Pan-genome analysis (Panaroo, Roary)  
-- High-performance computing (SLURM)  
+- High-performance computing clusters  
 
 ---
 
