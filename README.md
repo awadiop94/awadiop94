@@ -28,7 +28,8 @@ I’m a microbiologist and bioinformatician passionate about understanding bacte
 
 ## Selected Tools & Methods
 - Species delimitation using ANI, Gene Flow (BSC species)
-- Homologous recombination detection (ConSpecifix)   
+- Homologous recombination detection (ConSpecifix)
+- Introgression inference (house python pipelines)   
 - Horizontal gene transfer detection (house python pipelines)
 - Phylogenetics (RAXML, RAXML-NG, FastTree, ASTRAL, IQ-Tree)
 - Core genome analysis (CoreCruncher)  
