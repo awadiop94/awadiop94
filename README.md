@@ -1,7 +1,7 @@
 # Hi, I'm Awa 👋
 
 Awa DIOP, Ph.D (She/Her)  
-📍 Research Scholar | Bioinformatics | Genomics | Microbiology  
+📍 Research Scholar | Bioinformatics | Genomics | Microbiology | Evolutionar Biology
 🏛️ North Carolina State University, Raleigh, NC, USA  
 
 ---
